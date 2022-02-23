@@ -5,7 +5,7 @@
   "position": "backend",
   "stacks": {
     "main": ["python", "java"],
-    "often": ["cpp", "c", "javascript"]
+    "often": ["cpp", "c", "golang"]
   },
   "links": {
     "page": "https://rwe.kr"
