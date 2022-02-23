@@ -1,8 +1,7 @@
-### Bio
 ```json
 {
   "nick": "gwanryo",
-  "position": "backend",
+  "position": ["embedded", "backend"],
   "stacks": {
     "main": ["python", "java"],
     "often": ["cpp", "c", "golang"]
