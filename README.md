@@ -1,10 +1,10 @@
 ```json
 {
   "nick": "gwanryo",
-  "position": ["embedded", "backend"],
+  "position": ["server", "embedded"],
   "stacks": {
-    "main": ["python", "java"],
-    "often": ["cpp", "c", "golang"]
+    "main": ["python", "golang"],
+    "often": [ "c", "java", "cpp" ]
   },
   "links": {
     "page": "https://rwe.kr"
