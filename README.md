@@ -3,7 +3,7 @@
   "nick": "gwanryo",
   "position": ["server", "embedded"],
   "stacks": {
-    "main": [ "python", "golang" ],
+    "main": [ "kotlin", "python", "golang" ],
     "often": [ "c", "java", "cpp" ]
   },
   "links": {
